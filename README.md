@@ -3,13 +3,11 @@
 
 100 projects, one journey — from beginner to master in web development.
 
-![Total Projects](https://img.shields.io/badge/Total%20Projects-100-blue)
-![Completed](https://img.shields.io/badge/Completed-0%25-red)
-![In Progress](https://img.shields.io/badge/In%20Progress-0-yellow)
-![Not Started](https://img.shields.io/badge/Not%20Started-100-lightgrey)
-![Languages](https://img.shields.io/badge/Languages-HTML%2C%20JavaScript%2C%20CSS%2C%20Python-blue)
-![Stages](https://img.shields.io/badge/Stages-Beginner%2C%20Intermediate%2C%20Advanced-lightgrey)
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy%2C%20Medium%2C%20Hard-green)
+![Total Projects](https://img.shields.io/badge/Total%20Projects-100-lightblue)
+![Completed](https://img.shields.io/badge/Completed-1%25-green)
+![Not Started](https://img.shields.io/badge/Not%20Started-99-black)
+![Languages](https://img.shields.io/badge/Languages-HTML%2C%20JavaScript%2C%20CSS%2C%20Python-white)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy%2C%20Medium%2C%20Hard-white)
 
 ---
 
