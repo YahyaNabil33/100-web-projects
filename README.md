@@ -18,7 +18,7 @@ The goal is to practice, learn, and improve my skills step by step, covering the
 
 
 ## Stage 1 — HTML (10 projects)
-- [ ] 1. Hello World Page
+- [x] 1. Hello World Page
 - [ ] 2. About Me Page
 - [ ] 3. Favorite Foods List
 - [ ] 4. Image Gallery
