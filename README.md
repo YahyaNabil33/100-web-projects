@@ -147,16 +147,13 @@ The goal is to practice, learn, and improve my skills step by step, covering the
 ## Structure
 
 Each project has its own folder containing:  
-- **Source code** 💻  
-- **Short description** 📖  
-- **Demo link** (if hosted) 🌐  
-
+- **Source code**  
+- **Short description**   
+- **Demo link** (if hosted) 
 ## Goals
 
 - Improve web development skills step by step  
 - Cover both front-end and back-end technologies  
 - Create projects that can be shared or deployed online  
 
----
 
-**Let's code, learn, and grow!**
