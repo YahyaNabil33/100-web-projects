@@ -4,8 +4,8 @@
 100 projects, one journey — from beginner to master in web development.
 
 ![Total Projects](https://img.shields.io/badge/Total%20Projects-100-lightblue)
-![Completed](https://img.shields.io/badge/Completed-1%25-green)
-![Not Started](https://img.shields.io/badge/Not%20Started-99-black)
+![Completed](https://img.shields.io/badge/Completed-2%25-green)
+![Not Started](https://img.shields.io/badge/Not%20Started-98-black)
 ![Languages](https://img.shields.io/badge/Languages-HTML%2C%20JavaScript%2C%20CSS%2C%20Python-white)
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy%2C%20Medium%2C%20Hard-white)
 
@@ -19,7 +19,7 @@ The goal is to practice, learn, and improve my skills step by step, covering the
 
 ## Stage 1 — HTML (10 projects)
 - [x] 1. Hello World Page
-- [ ] 2. About Me Page
+- [x] 2. About Me Page
 - [ ] 3. Favorite Foods List
 - [ ] 4. Image Gallery
 - [ ] 5. Link Hub
