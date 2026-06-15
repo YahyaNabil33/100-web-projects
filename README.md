@@ -1,12 +1,11 @@
 # 100 Web Development Projects
 
-
 100 projects, one journey — from beginner to master in web development.
 
 ![Total Projects](https://img.shields.io/badge/Total%20Projects-100-lightblue)
 ![Completed](https://img.shields.io/badge/Completed-2%25-green)
 ![Not Started](https://img.shields.io/badge/Not%20Started-98-black)
-![Languages](https://img.shields.io/badge/Languages-HTML%2C%20JavaScript%2C%20CSS%2C%20Python-white)
+![Languages](https://img.shields.io/badge/Languages-HTML%2C%20CSS%2C%20JavaScript%2C%20Node.js%2C%20PostgreSQL-white)
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy%2C%20Medium%2C%20Hard-white)
 
 ---
@@ -14,10 +13,10 @@
 This repository documents my journey of building **100 web development projects** from beginner to master level.  
 The goal is to practice, learn, and improve my skills step by step, covering the full web development roadmap.
 
-## Project Levels
-
+---
 
 ## Stage 1 — HTML (10 projects)
+
 - [x] 1. Hello World Page
 - [x] 2. About Me Page
 - [ ] 3. Favorite Foods List
@@ -32,6 +31,7 @@ The goal is to practice, learn, and improve my skills step by step, covering the
 ---
 
 ## Stage 2 — CSS (15 projects)
+
 - [ ] 11. Styled Hello World
 - [ ] 12. Styled About Me Page
 - [ ] 13. Styled Favorite Foods List
@@ -51,8 +51,9 @@ The goal is to practice, learn, and improve my skills step by step, covering the
 ---
 
 ## Stage 3 — JavaScript (25 projects)
-- [ ] 26. Console Logging Practice
-- [ ] 27. Variables & Data Types Exercises
+
+- [ ] 26. Number Guessing Game
+- [ ] 27. Tip Calculator UI
 - [ ] 28. Basic Calculator
 - [ ] 29. Age in Days Calculator
 - [ ] 30. Color Changer
@@ -62,7 +63,7 @@ The goal is to practice, learn, and improve my skills step by step, covering the
 - [ ] 34. Image Slider
 - [ ] 35. Simple Countdown Timer
 - [ ] 36. Form Validation
-- [ ] 37. Tip Calculator
+- [ ] 37. Unit Converter (km/miles, kg/lbs)
 - [ ] 38. Light/Dark Mode Toggle
 - [ ] 39. Rock Paper Scissors Game
 - [ ] 40. Simple Quiz App
@@ -79,7 +80,8 @@ The goal is to practice, learn, and improve my skills step by step, covering the
 
 ---
 
-## Stage 4 — Frontend Integration Projects (HTML + CSS + JS) (20 projects)
+## Stage 4 — Frontend Integration (HTML + CSS + JS) (20 projects)
+
 - [ ] 51. Personal Portfolio
 - [ ] 52. Responsive Landing Page
 - [ ] 53. Product Showcase Page
@@ -103,35 +105,38 @@ The goal is to practice, learn, and improve my skills step by step, covering the
 
 ---
 
-## Stage 5 — Backend & Databases (Node.js / PHP / Python) (15 projects)
-- [ ] 71. Hello Server
-- [ ] 72. Simple API Endpoint
-- [ ] 73. CRUD with JSON Files
-- [ ] 74. Basic Login System
-- [ ] 75. User Registration Form
-- [ ] 76. Contact Form with Backend
-- [ ] 77. Guestbook App
-- [ ] 78. Notes App (Backend)
-- [ ] 79. Task Manager (Backend)
-- [ ] 80. Blog Backend
-- [ ] 81. Movie Review App
-- [ ] 82. Simple REST API
-- [ ] 83. Authentication with JWT
-- [ ] 84. File Upload System
-- [ ] 85. Backend Portfolio Project
+## Stage 5 — Backend + Databases (Node.js + PostgreSQL) (20 projects)
+
+**Database Foundation (PostgreSQL)**
+
+- [ ] 71. SQL Basics — queries, filtering, joins on a local database
+- [ ] 72. Users Table CRUD — create, read, update, delete via SQL
+- [ ] 73. Product Inventory DB — relational schema, foreign keys, basic queries
+
+**Backend with Node.js**
+
+- [ ] 74. Hello Server — basic Node.js/Express server, routes, responses
+- [ ] 75. Simple API Endpoint — GET/POST routes returning JSON
+- [ ] 76. CRUD with JSON Files — file-based storage before connecting a real DB
+- [ ] 77. Basic Login System — sessions, hashed passwords (bcrypt)
+- [ ] 78. User Registration Form — validation, error handling, DB insert
+- [ ] 79. Contact Form with Backend — form → Node.js → email or DB log
+- [ ] 80. Guestbook App — full CRUD, PostgreSQL connected
+- [ ] 81. Notes App (Backend) — authenticated notes stored in DB
+- [ ] 82. Task Manager (Backend) — tasks per user, DB-backed
+- [ ] 83. Blog Backend — posts, categories, basic admin logic
+- [ ] 84. Movie Review App — users, reviews, ratings stored in DB
+- [ ] 85. Simple REST API — full RESTful routes, proper status codes
+- [ ] 86. Authentication with JWT — token-based auth replacing sessions
+- [ ] 87. File Upload System — multer, file storage, DB metadata
+- [ ] 88. Mini E-commerce DB — products, orders, users schema
+- [ ] 89. Notes App with Full DB Integration — polished version of 81
+- [ ] 90. Backend Portfolio Project — cleanest backend work, documented and deployed
 
 ---
 
-## Stage 6 — Databases (SQL + NoSQL) (5 projects)
-- [ ] 86. Simple SQL Queries
-- [ ] 87. Users Table CRUD
-- [ ] 88. Product Inventory DB
-- [ ] 89. Notes App with DB
-- [ ] 90. Mini E-commerce DB
+## Stage 6 — Full-Stack Projects (Frontend + Backend + Database) (9 projects)
 
----
-
-## Stage 7 — Full-Stack Projects (Frontend + Backend + Database) (15 projects)
 - [ ] 91. Full Portfolio Website
 - [ ] 92. Full Blogging Platform
 - [ ] 93. Simple Social Media App
@@ -141,19 +146,27 @@ The goal is to practice, learn, and improve my skills step by step, covering the
 - [ ] 97. Quiz App Full-Stack
 - [ ] 98. Chat Application
 - [ ] 99. Event Booking System
-- [ ] 100. Final Capstone: Multi-Feature Web App (Portfolio + Blog + Store)
 
+---
+
+## Stage 7 — Capstone (3 phases)
+
+- [ ] 100a. Full Blog Platform — public-facing, auth, categories, comments
+- [ ] 100b. Full Store — product listings, cart, checkout flow, order tracking
+- [ ] 100c. Unified Portfolio Site — showcases both above + best 10 projects from earlier stages, live and linked
+
+---
 
 ## Structure
 
-Each project has its own folder containing:  
-- **Source code**  
-- **Short description**   
-- **Demo link** (if hosted) 
+Each project has its own folder containing:
+- **Source code**
+- **Short description**
+- **Demo link** (if hosted)
+
 ## Goals
 
-- Improve web development skills step by step  
-- Cover both front-end and back-end technologies  
-- Create projects that can be shared or deployed online  
-
-
+- Build real things at every stage — no drill disguised as a project
+- Learn Node.js and PostgreSQL as the backend stack
+- DB fundamentals before backend projects that depend on them
+- End with three production-quality deployable products
