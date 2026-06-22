@@ -32,76 +32,86 @@ The goal is to practice, learn, and improve my skills step by step, covering the
 
 ## Stage 2 — CSS (15 projects)
 
-- [ ] 11. Styled Hello World
-- [ ] 12. Styled About Me Page
-- [ ] 13. Styled Favorite Foods List
-- [ ] 14. Image Gallery with CSS Grid
-- [ ] 15. Navigation Bar
-- [ ] 16. Card Layouts
-- [ ] 17. Buttons & Hover Effects
-- [ ] 18. Flexbox Practice
-- [ ] 19. Responsive Grid Layout
-- [ ] 20. Styled Article Page
-- [ ] 21. Resume Page with Typography
-- [ ] 22. Timetable Styling
-- [ ] 23. Form Styling
-- [ ] 24. Animated Portfolio Page
-- [ ] 25. Simple Landing Page
+> Each project here is standalone — not a reskin of Stage 1 work.
+
+- [ ] 11. Pricing Table — three-column plan layout, highlighted recommended tier
+- [ ] 12. Newspaper Layout — multi-column article page using CSS Grid
+- [ ] 13. Animated Loader Collection — 5 different pure-CSS loaders on one page
+- [ ] 14. Navigation Bar — fixed top nav with dropdown menu, hover states
+- [ ] 15. Card Layouts — product/profile cards using Flexbox
+- [ ] 16. Buttons & Hover Effects — button component sheet, 10+ variations
+- [ ] 17. Flexbox Practice Page — visual demo of every major Flexbox property
+- [ ] 18. CSS Grid Dashboard Layout — sidebar + main content + header structure
+- [ ] 19. Responsive Grid Layout — 4-col → 2-col → 1-col across breakpoints
+- [ ] 20. Styled Article Page — long-form reading layout, typography-focused
+- [ ] 21. Resume Page with Typography — type scale, spacing, print-ready layout
+- [ ] 22. Timetable Styling — grid-based weekly schedule, color-coded by category
+- [ ] 23. Form Styling — custom inputs, focus states, validation styling
+- [ ] 24. Animated Portfolio Page — scroll-triggered CSS animations, no JS
+- [ ] 25. Simple Landing Page — hero, features, CTA sections, fully responsive
 
 ---
 
 ## Stage 3 — JavaScript (25 projects)
 
-- [ ] 26. Number Guessing Game
-- [ ] 27. Tip Calculator UI
-- [ ] 28. Basic Calculator
-- [ ] 29. Age in Days Calculator
-- [ ] 30. Color Changer
-- [ ] 31. Dice Roll Simulator
-- [ ] 32. Random Quote Generator
-- [ ] 33. To-Do List (basic)
-- [ ] 34. Image Slider
-- [ ] 35. Simple Countdown Timer
-- [ ] 36. Form Validation
-- [ ] 37. Unit Converter (km/miles, kg/lbs)
-- [ ] 38. Light/Dark Mode Toggle
-- [ ] 39. Rock Paper Scissors Game
-- [ ] 40. Simple Quiz App
-- [ ] 41. Memory Game
-- [ ] 42. Weather App (basic API)
-- [ ] 43. BMI Calculator
-- [ ] 44. Currency Converter
-- [ ] 45. Shopping Cart (front-end only)
-- [ ] 46. Digital Clock
-- [ ] 47. Keyboard Event Tracker
-- [ ] 48. Basic Canvas Drawing
-- [ ] 49. Todo List with Local Storage
-- [ ] 50. Simple Blog Template
+> Cut redundant calculator variations. Each project targets a distinct JS mechanic.
+
+- [ ] 26. Number Guessing Game — logic, conditionals, DOM feedback
+- [ ] 27. Tip Calculator UI — input handling, real-time calculation display
+- [ ] 28. Basic Calculator — operator chaining, state management
+- [ ] 29. Color Changer — random hex generation, DOM style manipulation
+- [ ] 30. Dice Roll Simulator — randomness, animation trigger on event
+- [ ] 31. Random Quote Generator — array manipulation, dynamic DOM injection
+- [ ] 32. To-Do List — CRUD operations on DOM, no storage yet
+- [ ] 33. Image Slider — index tracking, auto-play, manual controls
+- [ ] 34. Simple Countdown Timer — setInterval, time math, stop/reset logic
+- [ ] 35. Form Validation — regex, real-time feedback, preventing submission
+- [ ] 36. Unit Converter — multi-category conversion (length, weight, temp)
+- [ ] 37. Light/Dark Mode Toggle — classList toggle, preference persistence via localStorage
+- [ ] 38. Rock Paper Scissors — game logic, score tracking, round system
+- [ ] 39. Simple Quiz App — question bank, score tallying, result screen
+- [ ] 40. Memory Card Game — grid generation, flip logic, match detection
+- [ ] 41. Weather App — fetch API, async/await, JSON parsing, error handling
+- [ ] 42. Shopping Cart — add/remove items, quantity update, total calculation
+- [ ] 43. Digital Clock — live time display, 12/24hr toggle
+- [ ] 44. Keyboard Event Tracker — keydown/keyup events, visual key display
+- [ ] 45. Basic Canvas Drawing — mouse events on canvas, freehand draw tool
+- [ ] 46. Todo List with localStorage — CRUD + persistence across page refresh
+- [ ] 47. Drag and Drop List — dragstart/dragover/drop events, reorder items
+- [ ] 48. Infinite Scroll Feed — mock data, scroll event, dynamic DOM append
+- [ ] 49. Debounce Search Filter — input event, debounce function, live filtering
+- [ ] 50. Simple Blog Template — multi-page structure, JS-powered routing simulation
 
 ---
 
 ## Stage 4 — Frontend Integration (HTML + CSS + JS) (20 projects)
 
-- [ ] 51. Personal Portfolio
-- [ ] 52. Responsive Landing Page
-- [ ] 53. Product Showcase Page
-- [ ] 54. Interactive Quiz
-- [ ] 55. Interactive Resume
-- [ ] 56. Music Player (basic)
-- [ ] 57. Image Gallery with Filters
-- [ ] 58. Movie List App
-- [ ] 59. Task Manager
-- [ ] 60. Interactive Pricing Table
-- [ ] 61. Mini Social Feed
-- [ ] 62. Blog Page with Search
-- [ ] 63. Restaurant Menu
-- [ ] 64. Portfolio with Tabs
-- [ ] 65. Simple Chat UI
-- [ ] 66. Lightbox Gallery
-- [ ] 67. Interactive FAQ Page
-- [ ] 68. Event Countdown Page
-- [ ] 69. Video Gallery Page
-- [ ] 70. Mini E-commerce Product Page
+> Every project has a defined must-do feature set. No vague titles.
+
+- [ ] 51. Personal Portfolio — bio, project grid, contact form with JS validation
+- [ ] 52. Responsive Landing Page — hero with CTA, animated feature section, mobile nav
+- [ ] 53. Product Showcase Page — filterable product grid, modal detail view
+- [ ] 54. Interactive Quiz — timed questions, progress bar, score breakdown screen
+- [ ] 55. Interactive Resume — tabbed sections (experience, skills, education), print button
+- [ ] 56. Music Player — play/pause/skip, progress bar scrubbing, track list UI
+- [ ] 57. Image Gallery with Filters — tag-based filter, lightbox on click, lazy load
+- [ ] 58. Movie List App — search by title, filter by genre, local watchlist saved to localStorage
+- [ ] 59. Task Manager — priority levels, drag-to-reorder, due date display, filter by status
+- [ ] 60. Interactive Pricing Table — monthly/annual toggle, plan comparison, highlighted tier
+- [ ] 61. Mini Social Feed — hardcoded posts, like button with count, comment toggle
+- [ ] 62. Blog Page with Search — post cards, live search filter, tag filtering
+- [ ] 63. Restaurant Menu — category tabs, item cards, order summary sidebar
+- [ ] 64. Portfolio with Tabs — work/about/contact tabs, animated tab switch
+- [ ] 65. Simple Chat UI — message input, send on Enter, timestamp, auto-scroll to bottom
+- [ ] 66. Lightbox Gallery — grid thumbnails, full-screen overlay, keyboard nav (arrow keys)
+- [ ] 67. Interactive FAQ Page — accordion open/close, search filter, smooth animation
+- [ ] 68. Event Countdown Page — target date input, live countdown display, expired state
+- [ ] 69. Video Gallery Page — thumbnail grid, click-to-play inline, category filter
+- [ ] 70. Mini E-commerce Product Page — image zoom, size/color selector, add-to-cart with local state
+
+---
+
+> **Before starting Stage 5:** Take 3 of your completed frontend projects and write out what the database schema would look like for each — tables, columns, data types, relationships. This is not a project, it has no folder. It is a thinking exercise. Do it before touching project 71.
 
 ---
 
